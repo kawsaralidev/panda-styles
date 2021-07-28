@@ -1,0 +1,19 @@
+.panda-bg-color{
+  background-color:rgb(250, 233, 233) ; 
+}
+.panda-btn-bg-colors{
+    background-image: linear-gradient(rgb(255, 102, 161), rgb(255, 102, 56) );
+    background-color: rgb(255, 255, 255);
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    
+}
+.panda-btn-bg-colors:hover{
+    
+    background-image: linear-gradient(rgb(0, 89, 255), rgb(112, 215, 255));
+    color: white;
+}
+.catagories img{
+     width: 100px;
+}
